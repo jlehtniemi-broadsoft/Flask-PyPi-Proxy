@@ -8,7 +8,7 @@ import json
 import logging
 from flask import Flask
 
-def read_configuration(app, pypi_url='http://pypi.python.org',
+def read_configuration(app, pypi_url='https://pypi.python.org',
                        private_eggs=[]):
     ''' Reads the configuration by using the system file or the configuration
     file.

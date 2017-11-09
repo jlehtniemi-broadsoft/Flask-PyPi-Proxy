@@ -28,7 +28,7 @@ PRIVATE_EGGS
 
 PYPI_URL
     the URL where from where the eggs should be downloaded. By default it
-    uses: http://pypi.python.org but it can be changed to any other. This might
+    uses: https://pypi.python.org but it can be changed to any other. This might
     be useful, for example if you have a development/local proxy, that
     uses the production proxy.
 
